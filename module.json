@@ -1,6 +1,6 @@
 {
-  "id": "",
-  "title": "",
+  "id": "pantheon-olympus",
+  "title": "Pantheon: Olympus",
   "version": "#{VERSION}#",
   "library": "false",
   "compatibility": {
@@ -20,7 +20,7 @@
       }
     }
   },
-  "description": "",
+  "description": "An implementation of Greek deities as Pathfinder Second Edition deity stat blocks.",
   "authors": [
     {
       "name": "Teridax68",
@@ -29,9 +29,9 @@
   ],
   "packs": [
     {
-      "name": "",
-      "label": "",
-      "path": "packs/",
+      "name": "pantheon-olympus",
+      "label": "Pantheon: Olympus",
+      "path": "packs/pantheon-olympus",
       "type": "Item",
       "system": "pf2e",
       "flags": {}
@@ -44,5 +44,5 @@
   "manifest": "#{MANIFEST}#",
   "download": "#{DOWNLOAD}#",
   "license": "LICENSE",
-  "readme": ""
+  "readme": "https://homebrewery.naturalcrit.com/share/VbLcJFzSGWm5"
 }
